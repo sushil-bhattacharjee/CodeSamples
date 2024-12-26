@@ -18,7 +18,7 @@ Powershell/MerakiSDK/sdktest.ps1
 .vscode/settings.json
 .vscode/settings.json
 .vscode/settings.json
-.vscode/settings.json
+.vscode/
 Python/Networking/Nornir/yamlizer.py
 nornir.log
 nornir.log
